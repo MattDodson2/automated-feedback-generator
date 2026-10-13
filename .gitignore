@@ -1,0 +1,22 @@
+# Python caches and temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local application data (templates, custom criteria and vocabulary)
+setup_templates.json
+
+# Editors and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Exported feedback files (if saved alongside the source)
+feedback_output*.txt

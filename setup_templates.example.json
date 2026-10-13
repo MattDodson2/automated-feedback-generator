@@ -1,0 +1,33 @@
+{
+  "templates": [
+    {
+      "name": "Example assessment",
+      "criteria": [
+        "Referencing",
+        "Analysis",
+        "Clarity"
+      ]
+    }
+  ],
+  "custom_criteria": [],
+  "custom_adjectives": {
+    "weak": {
+      "fail": [],
+      "poor": [],
+      "good": [],
+      "great": []
+    },
+    "good": {
+      "fail": [],
+      "poor": [],
+      "good": [],
+      "great": []
+    },
+    "excellent": {
+      "fail": [],
+      "poor": [],
+      "good": [],
+      "great": []
+    }
+  }
+}
